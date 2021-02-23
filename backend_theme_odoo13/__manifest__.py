@@ -25,9 +25,7 @@
 		'views/res_company_view.xml'
     ],
     'images':[
-        'static/description/module_cover.jpg',
-        'static/description/screenshot1.png',
-        'static/description/screenshot2.png'
+        'static/description/module_cover.jpg'
 	],
     'installable': True,
     'auto_install': False,
