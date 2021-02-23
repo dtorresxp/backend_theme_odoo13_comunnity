@@ -17,7 +17,7 @@
     """,
     'depends': [
         'web',
-        'ow_web_responsive',
+        'backend_theme_web_responsive_odoo13',
 
     ],
     'data': [
