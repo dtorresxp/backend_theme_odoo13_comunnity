@@ -5,7 +5,7 @@
 
 {
     "name": "Material Backend Theme Odoo 13 Community",
-    "version": "13.0.0.6",
+    "version": "13.0.0.8",
     "summary": "Material Backend Theme Odoo 13 Community - Support Mobile Web Responsive",
     "category": "Theme/Backend",
     "author": "Odoo VietNam - WinERP",
