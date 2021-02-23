@@ -4,6 +4,7 @@
     <list default="true" id="bb47b999-6029-45d4-a844-3185ff726e0c" name="Default Changelist" comment="Update info backend theme addon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend_theme_odoo13/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend_theme_odoo13/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_theme_odoo13/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend_theme_odoo13/static/description/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +114,7 @@
     <MESSAGE value="Update info app free" />
     <MESSAGE value="Update theme depends backend_theme_web_responsive_odoo13 addon" />
     <MESSAGE value="Update info backend theme addon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update info backend theme addon" />
+    <MESSAGE value="Update info backend theme addon 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update info backend theme addon 1" />
   </component>
 </project>
