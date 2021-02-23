@@ -3,12 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="bb47b999-6029-45d4-a844-3185ff726e0c" name="Default Changelist" comment="Update info backend theme addon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend_theme_odoo13/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend_theme_odoo13/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_theme_odoo13/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend_theme_odoo13/static/description/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="13.0" />
   </component>
   <component name="Git.Settings">
     <favorite-branches>
@@ -107,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614064769746</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update info backend theme addon">
+      <created>1614065460132</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614065460132</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
