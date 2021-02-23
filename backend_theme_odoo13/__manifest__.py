@@ -8,8 +8,8 @@
     "version": "13.0.0.6",
     "summary": "Material Backend Theme Odoo 13 Community - Support Mobile Web Responsive",
     "category": "Theme/Backend",
-    'author': 'Odoo VietNam - WinERP',
-    'support': 'info@winerp.vn',
+    "author": "Odoo VietNam - WinERP",
+    "support": "info@winerp.vn",
     "website": "https://winerp.vn",
     "license": "LGPL-3",
 	'description': """
@@ -17,12 +17,12 @@
     """,
     'depends': [
         'web',
-        'backend_theme_web_responsive_odoo13',
+        'backend_theme_web_responsive_odoo13'
 
     ],
     'data': [
         'views/assets.xml',
-		'views/res_company_view.xml',
+		'views/res_company_view.xml'
     ],
     'images':[
         'static/description/module_cover.jpg',
