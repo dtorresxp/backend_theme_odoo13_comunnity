@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb47b999-6029-45d4-a844-3185ff726e0c" name="Default Changelist" comment="Update info backend theme addon 1 13.0">
-      <change beforePath="$PROJECT_DIR$/backend_theme_odoo13/images/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend_theme_odoo13/images/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend_theme_odoo13/static/img/appmenu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend_theme_odoo13/static/img/chatter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend_theme_odoo13/static/img/chatter_topbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend_theme_odoo13/static/img/formview.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend_theme_odoo13/static/img/listview.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_theme_odoo13/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend_theme_odoo13/static/description/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +32,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend_theme_odoo13/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend_theme_odoo13/static" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend_theme_odoo13/static" />
       <recent name="$PROJECT_DIR$/backend_theme_odoo13/images" />
       <recent name="$PROJECT_DIR$/backend_theme_odoo13/static/description" />
     </key>
@@ -120,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614066530667</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update info backend theme addon 1 13.0">
+      <created>1614067066325</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614067066325</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
